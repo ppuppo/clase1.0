@@ -1,0 +1,19 @@
+{
+  "name": "ort.clase1.npm",
+  "version": "1.0.0",
+  "description": "Prueba de nuestro paquete NPM",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ppuppo/clase1.0.git"
+  },
+  "author": "Pablo Puppo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ppuppo/clase1.0/issues"
+  },
+  "homepage": "https://github.com/ppuppo/clase1.0#readme"
+}
